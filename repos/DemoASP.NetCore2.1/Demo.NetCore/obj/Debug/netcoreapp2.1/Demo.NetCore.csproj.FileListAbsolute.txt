@@ -1,0 +1,14 @@
+C:\Users\NguyenDai\source\repos\DemoASP.NetCore2.1\Demo.NetCore\bin\Debug\netcoreapp2.1\Demo.NetCore.deps.json
+C:\Users\NguyenDai\source\repos\DemoASP.NetCore2.1\Demo.NetCore\bin\Debug\netcoreapp2.1\Demo.NetCore.runtimeconfig.json
+C:\Users\NguyenDai\source\repos\DemoASP.NetCore2.1\Demo.NetCore\bin\Debug\netcoreapp2.1\Demo.NetCore.runtimeconfig.dev.json
+C:\Users\NguyenDai\source\repos\DemoASP.NetCore2.1\Demo.NetCore\bin\Debug\netcoreapp2.1\Demo.NetCore.dll
+C:\Users\NguyenDai\source\repos\DemoASP.NetCore2.1\Demo.NetCore\bin\Debug\netcoreapp2.1\Demo.NetCore.pdb
+C:\Users\NguyenDai\source\repos\DemoASP.NetCore2.1\Demo.NetCore\obj\Debug\netcoreapp2.1\Demo.NetCore.csprojAssemblyReference.cache
+C:\Users\NguyenDai\source\repos\DemoASP.NetCore2.1\Demo.NetCore\obj\Debug\netcoreapp2.1\Demo.NetCore.csproj.CoreCompileInputs.cache
+C:\Users\NguyenDai\source\repos\DemoASP.NetCore2.1\Demo.NetCore\obj\Debug\netcoreapp2.1\Demo.NetCore.RazorAssemblyInfo.cache
+C:\Users\NguyenDai\source\repos\DemoASP.NetCore2.1\Demo.NetCore\obj\Debug\netcoreapp2.1\Demo.NetCore.RazorAssemblyInfo.cs
+C:\Users\NguyenDai\source\repos\DemoASP.NetCore2.1\Demo.NetCore\obj\Debug\netcoreapp2.1\Demo.NetCore.AssemblyInfoInputs.cache
+C:\Users\NguyenDai\source\repos\DemoASP.NetCore2.1\Demo.NetCore\obj\Debug\netcoreapp2.1\Demo.NetCore.AssemblyInfo.cs
+C:\Users\NguyenDai\source\repos\DemoASP.NetCore2.1\Demo.NetCore\obj\Debug\netcoreapp2.1\Demo.NetCore.RazorTargetAssemblyInfo.cache
+C:\Users\NguyenDai\source\repos\DemoASP.NetCore2.1\Demo.NetCore\obj\Debug\netcoreapp2.1\Demo.NetCore.dll
+C:\Users\NguyenDai\source\repos\DemoASP.NetCore2.1\Demo.NetCore\obj\Debug\netcoreapp2.1\Demo.NetCore.pdb
